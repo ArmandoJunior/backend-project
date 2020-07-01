@@ -1,0 +1,5 @@
+steb01: "yarn add nodemon -D"
+steb02: "yarn add uuidv4  -D"
+steb03: "yarn add nodemon -D"
+steb04: "yarn add nodemon -D"
+steb05: "yarn add nodemon -D"
